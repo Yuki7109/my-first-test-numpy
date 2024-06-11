@@ -85,3 +85,7 @@ guide](https://opensource.guide/how-to-contribute/) helps explain why, what,
 and how to successfully get involved.
 
 my-first-test-repo
+
+comment:
+This is my first repository.
+This is a test.
